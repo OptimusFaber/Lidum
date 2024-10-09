@@ -1,0 +1,16 @@
+aiogram==3.13.0
+beautifulsoup4==4.12.3
+celery[redis]==5.4.0
+cryptography==3.4.8
+Flask[async]==2.2.5
+Flask_Limiter==3.8.0
+flask_sqlalchemy==3.1.1
+Pillow==10.4.0
+python-dotenv==1.0.1
+pytonapi==0.3.6
+pytonconnect==0.3.1
+pytonlib==0.0.63
+Requests==2.32.3
+SQLAlchemy==2.0.34
+ton==0.26
+tonsdk==1.0.15
