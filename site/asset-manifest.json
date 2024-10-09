@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ca331b5e.css",
+    "main.js": "/static/js/main.07d92a37.js",
+    "static/js/845.5b17d3cf.chunk.js": "/static/js/845.5b17d3cf.chunk.js",
+    "static/media/Inter-LightBETA.woff": "/static/media/Inter-LightBETA.ed9a7ce1dedab5d9333b.woff",
+    "static/media/Inter-Bold.woff": "/static/media/Inter-Bold.1e547cd04bfe2dae1f98.woff",
+    "static/media/Inter-SemiBold.woff": "/static/media/Inter-SemiBold.7f6c3678e245486167d9.woff",
+    "static/media/Inter-Medium.woff": "/static/media/Inter-Medium.44e343ff76a98508d309.woff",
+    "static/media/Inter-Regular.woff": "/static/media/Inter-Regular.0d6f7c99e635f1fec4c9.woff",
+    "static/media/Inter-LightBETA.woff2": "/static/media/Inter-LightBETA.85119f18c783bf6b0a9a.woff2",
+    "static/media/Inter-Bold.woff2": "/static/media/Inter-Bold.c08e610806161507e8e3.woff2",
+    "static/media/Inter-SemiBold.woff2": "/static/media/Inter-SemiBold.90f5c90fdecd8895f496.woff2",
+    "static/media/Inter-Medium.woff2": "/static/media/Inter-Medium.01f03178adde434fc9fa.woff2",
+    "static/media/Inter-Regular.woff2": "/static/media/Inter-Regular.bd097ceff83f90802a12.woff2",
+    "static/media/timer.svg": "/static/media/timer.45ad8a39e96bbca711b3.svg",
+    "static/media/twitter.svg": "/static/media/twitter.5d48deffea18b8f99f654d4047870e72.svg",
+    "static/media/qr-placeholder.jpg": "/static/media/qr-placeholder.0f8c86e50bab755da8d6.jpg",
+    "static/media/eventBackgroundDark.jpg": "/static/media/eventBackgroundDark.b11f1362d4bb66b1fb00.jpg",
+    "static/media/calendar.svg": "/static/media/calendar.5c926a96ca536566c661.svg",
+    "static/media/telegram.svg": "/static/media/telegram.80ffd2449bd9de983c496f9528c21399.svg",
+    "static/media/human.svg": "/static/media/human.1f168ef878c77f691170.svg",
+    "static/media/sun.svg": "/static/media/sun.383a398db6bfc08fcf41.svg",
+    "index.html": "/index.html",
+    "static/media/logo.svg": "/static/media/logo.1349d20916ef67fbc4dca06eb7b5f42d.svg",
+    "static/media/inputActiveError.svg": "/static/media/inputActiveError.4cf3d2fe7c209e8b70d7.svg",
+    "static/media/inputActive.svg": "/static/media/inputActive.912dda196518ccbf207a.svg",
+    "static/media/nextArrow.svg": "/static/media/nextArrow.ce55c12f148110775c82.svg",
+    "static/media/backArrow.svg": "/static/media/backArrow.49225347c822a6b45b6c.svg",
+    "static/media/inputInactive.svg": "/static/media/inputInactive.336015bbbfc4416b62b7.svg",
+    "main.ca331b5e.css.map": "/static/css/main.ca331b5e.css.map",
+    "main.07d92a37.js.map": "/static/js/main.07d92a37.js.map",
+    "845.5b17d3cf.chunk.js.map": "/static/js/845.5b17d3cf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca331b5e.css",
+    "static/js/main.07d92a37.js"
+  ]
+}
